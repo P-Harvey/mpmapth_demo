@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a demonstration of the `mpmath` library (version 1.3.0) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for arbitrary-precision floating-point arithmetic. This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python.
+This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for arbitrary-precision floating-point arithmetic. This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python.
 
 ## Features
 
