@@ -19,15 +19,26 @@ This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) 
 
 ### Examples
 
-![Figure  1](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure01_bessel.png?raw=true)
-![Figure  2](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure02_zeta.png?raw=true)
-![Figure  3](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure03_cp.png?raw=true)
-![Figure  4](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure04_cp.png?raw=true)
-![Figure  5](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure05_cp.png?raw=true)
-![Figure  6](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure06_cp.png?raw=true)
-![Figure  7](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure07_log.png?raw=true)
-![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure08_Mandelbrot.png?raw=true)
-![Figure  9](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure09_lommels1.png?raw=true)
-![Figure 10](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure10.png?raw=true)
-![Figure 11](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure11_Log_Map.png?raw=true)
-![Figure 12](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure12_Abs_Map.png?raw=true)
+![Figure  1](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_01.png?raw=true)
+
+![Figure  2](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_02.png?raw=true)
+
+![Figure  3](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_03.png?raw=true)
+
+![Figure  4](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_04.png?raw=true)
+
+![Figure  5](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_05.png?raw=true)
+
+![Figure  6](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_06.png?raw=true)
+
+![Figure  7](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_07.png?raw=true)
+
+![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_08.png?raw=true)
+
+![Figure  9](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_09.png?raw=true)
+
+![Figure 10](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_10.png?raw=true)
+
+![Figure 11](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_11.png?raw=true)
+
+![Figure 12](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_12.png?raw=true)
