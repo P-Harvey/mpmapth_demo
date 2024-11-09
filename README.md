@@ -27,7 +27,7 @@ This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) 
 ![Figure  6](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure06_cp.png?raw=true)
 ![Figure  7](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure07_log.png?raw=true)
 ![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure08_Mandelbrot.png?raw=true)
-<!-- ![Figure  9](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure09_.png?raw=true) -->
+![Figure  9](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure09_lommels1.png?raw=true)
 ![Figure 10](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure10.png?raw=true)
 ![Figure 11](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure11_Log_Map.png?raw=true)
 ![Figure 12](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure12_Abs_Map.png?raw=true)
