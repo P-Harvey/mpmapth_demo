@@ -19,12 +19,14 @@ This repository contains a demonstration of the `mpmath` library (version 1.3.0)
 
 ### Examples
 
-![Figure 1](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Abs_Map_Sq.png?raw=true)
+![Figure 1](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/bessel.png?raw=true)
 
-![Figure 2](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Complex_Log.png?raw=true)
+![Figure 2](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Complex_Sq.png?raw=true)
 
-![Figure 3](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Complex_Sq.png?raw=true)
+![Figure 3](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Complex_Log.png?raw=true)
 
-![Figure 4](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Logistics_Map_Sq.png?raw=true)
+![Figure 4](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Abs_Map_Sq.png?raw=true)
 
-![Figure 5](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/itsaten.png?raw=true)
+![Figure 5](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Logistics_Map_Sq.png?raw=true)
+
+![Figure 6](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/itsaten.png?raw=true)
