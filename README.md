@@ -1,10 +1,10 @@
-# mpmath_demo
+# **mpmath (v1.3.0)**\n**Complex Analysis Demonstration**
 
-## Overview
+## **Overview**
 
 This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for visualizing functional phase diagrams in the complex plane This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python. This would not be possible without the work done by the package's creator, [Fredrik Johansson](https://github.com/fredrik-johansson).
 
-## Features
+## **Features**
 
 * **Arbitrary-Precision Arithmetic:** Demonstrates how to perform basic arithmetic operations (+, -, *, /) with arbitrary precision using `mpf` objects.
 * **Special Functions:** Showcases the use of `mpmath`'s extensive library of special functions, such as the gamma function, Bessel functions, etc.
@@ -12,12 +12,12 @@ This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) 
 * **Linear Algebra:** Illustrates how to work with matrices and perform linear algebra operations with arbitrary precision.
 * **Integration and Differentiation:** Demonstrates numerical integration and differentiation techniques using `mpmath`.
 
-### Requires
+### **Requires**
 
 * Python 3.6 or higher
 * mpmath library (`pip install mpmath`)
 
-### Examples
+### **Examples**
 
 ![Figure  1](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_01.png?raw=true)
 
