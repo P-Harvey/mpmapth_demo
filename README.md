@@ -39,7 +39,7 @@ From the developers:
 >
 > The latest development code is available [here](https://github.com/mpmath/mpmath)
 >
-> See the main documentation for more detailed instructions.
+> See the [main documentation](https://mpmath.org/doc/current/index.html) for more detailed instructions.
 
 ### **Examples**
 
