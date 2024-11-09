@@ -1,6 +1,7 @@
 # **mpmath (v1.3.0):** Complex Analysis Demonstration
 
 ![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/demo_08.png?raw=true)
+**The Mandelbrot set with bounds Re(z) \in{-1.300, -1.255}, Im(z) \in{0.400, 0.445}** 
 
 ## **Overview**
 
