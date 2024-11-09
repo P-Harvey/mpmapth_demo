@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for arbitrary-precision floating-point arithmetic. This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python.
+This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for visualizing functional phase diagrams in the complex plane This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python. This would not be possible without the work done by the package's creator, [Fredrik Johansson](https://github.com/fredrik-johansson).
 
 ## Features
 
@@ -26,7 +26,7 @@ This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) 
 ![Figure  5](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure05_cp.png?raw=true)
 ![Figure  6](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure06_cp.png?raw=true)
 ![Figure  7](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure07_log.png?raw=true)
-<!-- ![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure08_.png?raw=true) -->
+![Figure  8](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure08_Mandelbrot.png?raw=true)
 <!-- ![Figure  9](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure09_.png?raw=true) -->
 ![Figure 10](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure10.png?raw=true)
 ![Figure 11](https://github.com/P-Harvey/mpmapth_demo/blob/main/Figures/Figure11_Log_Map.png?raw=true)
