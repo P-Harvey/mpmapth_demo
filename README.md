@@ -15,10 +15,31 @@ This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) 
 * **Linear Algebra:** Illustrates how to work with matrices and perform linear algebra operations with arbitrary precision.
 * **Integration and Differentiation:** Demonstrates numerical integration and differentiation techniques using `mpmath`.
 
-### **Requires**
+### **Installation/Usage**
 
-* Python 3.6 or higher
-* mpmath library (`pip install mpmath`)
+From the developers:
+
+> `mpmath` requires Python 3.8 or later versions. It has been tested with CPython 3.8 through 3.14 and for PyPy 3.10.
+>
+> The latest release of mpmath can be downloaded from the [mpmath website](https://mpmath.org) and [GitHub](https://github.com/mpmath/mpmath/releases)
+>
+> It should also be available in the Python Package Index at [https://pypi.python.org/pypi/mpmath](https://pypi.python.org/pypi/mpmath)
+>
+> To install latest release of Mpmath with pip, simply run
+>
+> ```{bash}
+> pip install mpmath
+> ```
+>
+> or from the source tree
+>
+> ```{bash}
+> pip install .
+> ```
+>
+> The latest development code is available [here](https://github.com/mpmath/mpmath)
+>
+> See the main documentation for more detailed instructions.
 
 ### **Examples**
 
