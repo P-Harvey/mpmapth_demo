@@ -1,4 +1,4 @@
-# **mpmath (v1.3.0)**\n**Complex Analysis Demonstration**
+# **mpmath (v1.3.0):** Complex Analysis Demonstration
 
 ## **Overview**
 
