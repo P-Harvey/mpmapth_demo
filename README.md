@@ -2,7 +2,7 @@
 
 ![Figure  8](https://github.com/user-attachments/assets/6f22806f-404d-440c-a527-c42922d7cff2)
 
-The Mandelbrot set $(r=8, i=50)$ with bounds $\text{Re}(z)=[-1.300, -1.255]$, $\text{Im}(z)=[0.400, 0.445]$
+The Mandelbrot set $(r=8, i=50)$ with bounds $\text{Re}(z)=[-1.296355025258600, -1.296355025258500]$, $\text{Im}(z)=[0.441851645984175, 0.441851645984275]$
 
 ## **Overview**
 
