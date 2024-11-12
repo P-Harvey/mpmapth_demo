@@ -10,7 +10,7 @@ $\text{Im}(z)=[0.441851645984175, 0.441851645984275]$
 
 ## **Overview**
 
-This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for visualizing functional phase diagrams in the complex plane This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python. This would not be possible without the work done by the package's creator, [Fredrik Johansson](https://github.com/fredrik-johansson).
+This repository contains a demonstration of the [`mpmath`](https://mpmath.org/) library ([version 1.3.0](https://mpmath.org/doc/current/index.html)) in Python. It provides examples and explanations of key features and functionalities offered by `mpmath` for visualizing functional phase diagrams in the complex plane This demo is intended for anyone interested in exploring and using `mpmath` for high-precision numerical computations in Python. This would not be possible without the work done by the package's [creative team](https://github.com/fredrik-johansson).
 
 ## **Features**
 
