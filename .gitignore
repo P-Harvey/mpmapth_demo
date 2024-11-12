@@ -1,3 +1,5 @@
 
 .DS_Store
 mpmath/
+playground/
+playground/setup.py
